@@ -1,0 +1,183 @@
+header {
+	background-color: #184EAE;
+	padding: 1rem;
+
+}
+
+.feature {
+	background-color:  #000;
+	color: #fff;
+}
+
+.feature a {
+	color:  #fff;
+	text-decoration: underline;
+}
+
+.becomeamember {
+	background-color: #000;
+	color:  #fff;
+	text-align: left;
+	padding: 30px;
+}
+header .fas{
+	color: white;
+
+}
+
+h1 {
+	font-size: 30px;
+	font-family: 'Lora', serif;
+}
+
+h2 {
+	font-size: 10px;
+	font-family: 'Yaldevi',sans-serif;
+}
+
+h3 {
+	font-size: 15px;
+	font-family: 'Yaldevi',sans-serif;
+}
+
+h4 {
+	font-size:  15px;
+	font-family: 'Yaldevi',sans-serif;
+}
+
+h5 {
+	font-size: 20px;
+	font-family: 'Lora', serif;
+
+}
+	
+footer {
+	font-size: 15px;
+	font-family: 'Yaldevi',sans-serif;
+	background-color:#184EAE ;
+	padding: 90px;
+
+
+}
+
+.footer {
+	color: #fff;
+	text-align: left;
+
+}
+
+.gem img {
+	height: 120px;
+}
+
+.whale img {
+	height: 120px;
+}
+
+.btn {
+  border: none;
+  background-color: #DEF796;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+  font-family:  'Yaldevi',sans-serif;';
+  text-align: center;
+
+
+}
+
+#main-menu nav {
+ display: flex;
+ height: 100%;
+}
+
+#main-menu{
+	background-color: #000;
+}
+
+nav a {
+	color: #fff;
+	text-align: Left;
+	font-family:  'Yaldevi',sans-serif;
+}
+
+
+#main-menu ul {
+ margin: auto 0;
+ padding: 0;
+ list-style: none;
+}
+
+.events {
+	text-align: center;
+}
+
+
+.layer-text {
+	display: grid;
+	place-items: center;
+}
+
+.layer-text * {
+	grid-column: 1;
+	grid-row: 1;
+}
+
+.feature {
+	padding: 30px;
+}
+
+.description {
+	font-family: 'Yaldevi', serif;
+}
+
+.titles {
+	font-family: 'Yaldevi', serif;
+}
+
+.Exhibits {
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-family: 'Yaldevi', serif;
+	padding: 20px;
+}
+
+.description {
+	padding: 35px;
+}
+
+.titles {
+	padding: 10px;
+}
+
+.treetitle{
+	text-align: center;
+	padding: 10px;
+}
+
+.eventtitle {
+	padding: 10px;
+	text-align: center;
+}
+
+.logo img 
+{
+	
+
+}
+
+.entrance {
+	padding: 25px;
+}
+
+
+.Exhibits .card{
+	width:  80%;
+	margin:  auto;
+
+}
+
+
+
